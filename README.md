@@ -70,6 +70,12 @@ CareAssist-Pro/
 
 ---
 
+## 📸 Screenshots
+
+![Chat Interface](screenshots/chat1.jpg)
+
+---
+
 ## 🧪 Setup Instructions
 
 ```bash
@@ -103,11 +109,6 @@ Visit: `http://127.0.0.1:8080`
 
 ---
 
-## 📸 Screenshots
-
-![Chat Interface](screenshots/chat1.jpg)
-
----
 
 ## 📘 Credits
 
